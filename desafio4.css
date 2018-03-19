@@ -1,0 +1,18 @@
+body {
+	background-color: #4a2885;
+}
+img {
+	width:500px;
+	height: 500px;
+}
+.sobre{
+	color: #ffffff;
+
+}
+
+section{
+	background-color:#faf519;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+}

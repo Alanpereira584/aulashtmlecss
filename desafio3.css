@@ -1,0 +1,17 @@
+ul{
+	color:#4a2885;
+	padding: 50px;
+	text-align: center;
+	list-style: none;
+}
+section{
+	padding: 50px;
+	color: #fcf64c;
+	border-style: solid;
+}
+.resumo{
+	background-color: #00F080;
+}
+.sobre{
+	background-color:  #00CC00;
+}

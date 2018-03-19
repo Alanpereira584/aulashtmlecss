@@ -1,0 +1,30 @@
+.inicio{
+	display: flex;
+	justify-content: center
+}
+.linha1{
+	font-size:25px;
+	margin:50px;
+	list-style: none;
+}
+.linha2{
+	font-size: 25px;
+	margin:50px;
+	list-style: none;
+}
+.linha3{
+	font-size:25px;
+    margin:50px;
+	list-style: none;
+}
+h1{
+	text-align: center;
+}
+p{
+	font-size:18px;
+}
+section{
+	padding: 10px;
+	background-color: #800000;
+	border-style: solid;
+}
